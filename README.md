@@ -14,7 +14,7 @@ _Learn how to manage parameters with Python_
  # LEVEL 2
   
  ## Exercise 2
-  - Continue with the sports theme data set you like and apply the main component analysis
+  - Continue with the sports theme data set you like and apply the main component analysis.
 
 # LEVEL 3
 
